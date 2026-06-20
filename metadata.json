@@ -1,0 +1,6 @@
+{
+  "name": "CryptoBox Password Strength Checker",
+  "description": "An enterprise-grade password strength meter, secure generator, and zero-knowledge encrypted local vault featuring live entropy metrics and common breach checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
