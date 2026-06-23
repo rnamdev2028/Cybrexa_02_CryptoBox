@@ -109,22 +109,3 @@ npm run build
 
 ---
 
-## 💼 Portfolio Copy-Paste Templates
-
-Use these pre-formatted highlights to share this project with your network:
-
-### LinkedIn Action Post 🚀
-> I have just designed and engineered **CryptoBox**, an enterprise-grade password security application and zero-knowledge credentials vault built with **React**, **TypeScript**, and **Tailwind CSS**! 
-> 
-> To safeguard absolute state privacy, I bypassed cloud servers and leveraged browser-native Web Cryptography (`window.crypto.subtle`) to execute client-side key derivation (`PBKDF2`, HMAC-SHA256, 80k iterations) and authenticated encryption (`AES-GCM 256-bit`).
-> 
-> Key Achievements:
-> * 🧠 **Shannon Entropy Calculator**: Built a real-time information density formula matching candidate character variety pools.
-> * 🔒 **Zero-Knowledge Encryption GCM**: Configured isolated salts and 12-byte IV parameters per entry, preventing dictionary attacks.
-> * ⚠️ **Breach Filter & Audit Suite**: Programmed client-side dictionary lookups and custom scoring metrics to review and export local credential safety reports.
-
-### Resume Bullets 🛠️
-* **Engineered CryptoBox**, a high-fidelity React/TypeScript password security application, implementing client-side zero-knowledge storage.
-* **Integrated Web Cryptography Subtle API** to derive secure user keys via 80,000-round PBKDF2 hashes and encrypt vault states using AES-GCM-256.
-* **Formulated custom Shannon-entropy calculations** to provide users with direct mathematical insights on password complexity and brute-force cracking resistance.
-* **Designed an interactive data security dashboard** with live credential audit logs, breach indicators, duplicate detection, and full-text document exports.
